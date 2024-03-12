@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.img img {
+    width: 400px;
+}
+.margin{
+    
+    margin: auto;
+    background-color: orange;
+    width: 550px;
+    height: 380px;
+}
+.border {
+    margin: auto;
+    width: 500px;
+    background-color: yellow;
+    height: 340px;
+}
+.padding {
+    margin: auto;
+    width: 450px;
+    background-color: greenyellow;
+    height: 300px;
+}
+.content {
+    width: 400px;
+    margin: auto;
+    background-color: rgb(169, 199, 189);
+    width: 400px;
+    height: 260px;
+}
